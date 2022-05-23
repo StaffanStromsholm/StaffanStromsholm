@@ -1,9 +1,5 @@
 ### Welcome 👋
 
-My name is Staffan and I love to build applications
+My name is Staffan and I'm currently working as a Junior UI Developer
 
-- 🔭 I’m constantly working on school projects and client projects
-- 🌱 I’m currently learning mostly React, Redux, NodeJS and MongoDB
-- 💬 Ask me about anything!
-- 📫 How to reach me: staffan.stromsholm@gmail.com
-- 🎹 Fun fact: I also play jazz piano
+I have experience in React, Redux, Javascript, Typescript and NestJS
