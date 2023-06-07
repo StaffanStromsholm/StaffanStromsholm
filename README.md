@@ -1,5 +1,3 @@
 ### Welcome 👋
 
-My name is Staffan and I'm currently working as a Junior UI Developer
-
-I have experience in React, Redux, Javascript, Typescript and NestJS
+I am a software developer with two years of work experience. I am proficient in React, Redux, Javascript, Typescript and NestJS.
